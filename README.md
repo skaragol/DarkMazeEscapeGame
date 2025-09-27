@@ -1,0 +1,1 @@
+This is a simple Unity 2D game where the player controls a red circle navigating through a dark maze. The objective is to reach the green exit circle within one minute. The maze is mostly dark, and the player can only see the surroundings through a spotlight attached to the player. (Due to file size, the full project is not included here.)
